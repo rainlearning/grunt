@@ -1,5 +1,6 @@
 # grunt
-this is tools with grunt
+
+JavaScript 世界的构建工具
 
 ## grunt 入门
 
